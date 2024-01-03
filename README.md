@@ -8,7 +8,10 @@
 - 💻 Programador FullStack.
 - 🔩 Estudiante de ingenieria mecanica.
 
-## 🌐 Social
+## 🌐 Contacto
 
-[![Mail](https://img.shields.io/badge/Correo_Electronico-black?style=for-the-badge&logo=gmail)](alejoguzmann20@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejo-guzm%C3%A1n/)[! [Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alejoguzmann_/) 
+- alejoguzmann20@gmail.com
+- https://www.linkedin.com/in/alejo-guzm%C3%A1n/
+
+
 
