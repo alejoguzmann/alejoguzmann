@@ -11,7 +11,9 @@
 ## 🌐 Contacto
 
 - alejoguzmann20@gmail.com
-- https://www.linkedin.com/in/alejo-guzm%C3%A1n/
+- https://www.linkedin.com/in/alejo-guzmán/
 
+## 💻 Tech Stack
 
+![JS](https://img.shields.io/badge/JavaScript-fff500?style=for-the-badge&logo=javascript&logoColor=black)
 
