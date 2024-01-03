@@ -15,4 +15,4 @@
 
 ## 💻 Tech Stack
 
-![JS](https://img.shields.io/badge/JavaScript-fff500?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react) ![Node](https://img.shields.io/badge/Node.Js-green?style=for-the-badge) ![postgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgreSQL)
+![JS](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript) ![React](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react) ![Node](https://img.shields.io/badge/Node.Js-green?style=for-the-badge) ![postgreSQL](https://img.shields.io/badge/PostgreSQL-aaaaaa?style=for-the-badge&logo=postgreSQL) ![Sequelize](https://img.shields.io/badge/sequelize-0f2f78?style=for-the-badge&logo=sequelize)
